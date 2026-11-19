@@ -1,4 +1,4 @@
-# adziapp
+# Adziapp
 
 A new Flutter project.
 
